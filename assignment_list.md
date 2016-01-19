@@ -13,4 +13,4 @@ Date | Topic | Expert | Discussion Facilitator | Reflection Blogger
 3/31|How can we engage broader audiences in our work? |Joey Lee | |
 4/7|Can we incentivize open science at more steps in the process? | Abby Cabunoc Mayes | |
 4/14|Crowdsourcing and engaging the public in massive research projects | Jason Bobe | | none
-4/21| Managing collaborative projects on the web| Zannah Marsh | |none
+4/21| Managing collaborative projects on the web| Zannah Marsh |Yajun (Angie) Zhang|none
